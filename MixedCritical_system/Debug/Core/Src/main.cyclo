@@ -1,0 +1,15 @@
+../Core/Src/main.c:124:5:__io_putchar	1
+../Core/Src/main.c:142:5:main	1
+../Core/Src/main.c:248:6:SystemClock_Config	3
+../Core/Src/main.c:290:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:323:13:MX_GPIO_Init	1
+../Core/Src/main.c:377:6:StressTask	2
+../Core/Src/main.c:403:6:StartDefaultTask	1
+../Core/Src/main.c:422:6:Start_Break_Task	2
+../Core/Src/main.c:455:6:Start_IRSensor_Task	2
+../Core/Src/main.c:482:6:Start_Motor_Task	1
+../Core/Src/main.c:503:6:Start_Monitor_Task	11
+../Core/Src/main.c:610:6:Start_Logging_Task	1
+../Core/Src/main.c:625:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/main.c:640:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:658:6:Error_Handler	1

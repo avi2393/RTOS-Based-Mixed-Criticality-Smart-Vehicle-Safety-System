@@ -1,0 +1,15 @@
+../Core/Src/main.c:124:5:__io_putchar	16	static
+../Core/Src/main.c:142:5:main	8	static
+../Core/Src/main.c:248:6:SystemClock_Config	88	static
+../Core/Src/main.c:290:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:323:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:377:6:StressTask	24	static
+../Core/Src/main.c:403:6:StartDefaultTask	16	static
+../Core/Src/main.c:422:6:Start_Break_Task	16	static
+../Core/Src/main.c:455:6:Start_IRSensor_Task	16	static
+../Core/Src/main.c:482:6:Start_Motor_Task	16	static
+../Core/Src/main.c:503:6:Start_Monitor_Task	64	static
+../Core/Src/main.c:610:6:Start_Logging_Task	16	static
+../Core/Src/main.c:625:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:640:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:658:6:Error_Handler	4	static,ignoring_inline_asm
